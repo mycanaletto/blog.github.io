@@ -15,7 +15,7 @@ La solution bien souvent utilisée conste à permettre au télétravailleur de t
 
 L'autre alternative reste l'utilisation d'un VPN en équipant les postes clients. Il y a plusieurs façons de faire, mais je voulais quelque chose de transparent, facilement administrable et ne m'imposant pas d'intervention ultérieure sur le poste client et ne nécessitant pas l'installation d'un serveur. Je vais donc une fois de plus utiliser Zerotier qui répond à mon besoin.
 
-![ezgif.com-gif-maker (2)](C:\Users\Lionel.SUPTEL\Documents\GitHub\blog.github.io\Welcome file.assets\ezgif.com-gif-maker (2).png)!](C:\Users\Lionel.SUPTEL\Downloads\ezgif.com-gif-maker (2).png)
+![vlan-Domain (1)](images/vlan-Domain (1).PNG)!](../../../Downloads/vlan-Domain (1).PNG)
 
 * Pas de serveur à déployer
 * Installation minimale sur le poste client
